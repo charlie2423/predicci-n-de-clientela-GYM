@@ -98,11 +98,16 @@ la mayoria de grupos se mantienen muchos meses en el gym los del grupo 4 no dura
 # Tasa de cancelación para cada clúste
 
   cluster_km     Churn
-0           0  0.001160
-1           1  0.015528
-2           2  0.007067
-3           3  0.263708
-4           4  0.997872
+           0  0.001160
+
+           1  0.015528
+
+           2  0.007067
+
+          3  0.263708
+
+         4  0.997872
+
 
 e podria decir que si difieren los grupos ya que el grupo 0 tiene una taza del 0% sinedo los menos propensos a irse los de grupo 4 tiene una taza de casi el 100% siendo los mas propensos a irse
 
